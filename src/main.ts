@@ -1,6 +1,6 @@
 import "./style.css";
 
-import * as BABYLON from 'babylonjs';
+import * as BABYLON from "babylonjs";
 
 const app = document.querySelector<HTMLDivElement>("#app")!;
 
